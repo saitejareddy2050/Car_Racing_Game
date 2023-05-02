@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5BBEC99E-1B8D-BD78-B8FE-86082457C59C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LapComplete.cs" Line="25" Column="20" />
+      <File FileName="Assets/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs" Line="90" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PROJ1" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a857caae-ed6f-4b92-bb7d-5051c9a25984" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
